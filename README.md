@@ -3,7 +3,6 @@
 Homelab & open-source maintainer — beginner-friendly Docker and Kubernetes stacks with install, update, backup, and a `./manage.sh` control center.
 
 **Connect**
-- LinkedIn: [johny-ferreira](https://www.linkedin.com/in/johny-ferreira-3085417b/)
 - GitHub Sponsors: [sponsor johnycsf](https://github.com/sponsors/johnycsf)
 
 **Featured projects**
