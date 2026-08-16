@@ -36,6 +36,6 @@ Star a stack you use — it helps others find them. Screenshots of the interacti
 - Hands-free OS dependency install where possible
 - Safe updates with pre-update backups
 - Incremental backup/restore helpers
-- Disaster recovery paths — restore from backup after a bad update, host failure, or data oops
+- Disaster recovery paths — restore from backup after a bad update, host failure, or data oops; optional **age**-encrypted exports for offsite/USB/NAS
 - Credits for upstream developers + clear disclaimer
 - GitHub Issues/PRs for bugs (see each repo’s `CONTRIBUTING.md`)
